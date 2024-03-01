@@ -1,0 +1,3 @@
+[submodule "css-exercise"]
+	path = css-exercise
+	url = git@github.com:jayanlikescoding/css-exercise.git
