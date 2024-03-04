@@ -1,3 +1,6 @@
 [submodule "css-exercise"]
 	path = css-exercise
 	url = git@github.com:jayanlikescoding/css-exercise.git
+[submodule "OdinProject-2-Landing-Page"]
+	path = OdinProject-2-Landing-Page
+	url = https://github.com/jayanlikescoding/OdinProject-2-Landing-Page
